@@ -1,4 +1,4 @@
-### Olá! Sou o Isaías 👋
+### Olá! Sou  Isaías 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas, pragmático e focado em aprender fazendo na prática.
 
